@@ -1,0 +1,39 @@
+{
+  "right_answers": 0,
+  "wrong_answers": 0,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "AWS allows users to manage their resources using a web based user interface. What is the name of this interface?",
+      "options": [
+        {"AWS CLI": 1},
+        {"AWS API": 2},
+        {"AWS SDK": 3},
+        {"AWS Management Console.": 4}
+      ],
+      "answer": 4
+    },
+    {
+      "question_number": 2,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        {"Earth": 1},
+        {"Jupiter": 2},
+        {"Mars": 3},
+        {"Saturn": 4}
+      ],
+      "answer": 2
+    },
+    {
+      "question_number": 3,
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        {"Ag": 1},
+        {"Au": 2},
+        {"Pb": 3},
+        {"Fe": 4}
+      ],
+      "answer": 2
+    }
+  ]
+}
