@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+quiz_results.json
+test_quiz_results.json
